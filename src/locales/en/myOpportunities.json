@@ -1,0 +1,8 @@
+{
+  "myRequests": "My Requests",
+  "activeRequests": "Active Requests",
+  "completedRequests": "Completed Requests",
+  "newRequests": "New Requests",
+  "viewRequest": "View Request",
+  "goBrowseRequests": "You don’t have any active requests"
+}

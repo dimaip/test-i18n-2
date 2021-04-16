@@ -1,0 +1,12 @@
+{
+  "workTogether": "Work Together",
+  "select1": "Select a request to send to",
+  "select2": "If this volunteer can help, we’ll connect you!",
+  "customMessage": "Custom Message (optional)",
+  "selectRequest": "Select request",
+  "sendRequest": "Send Request",
+  "inviteToOpportunityModalTitle": "Request Sent!",
+  "inviteToOpportunityModalSubtitle": "If this volunteer is able to help, we’ll connect you two via email.",
+  "allSet": "All Set!",
+  "createNewRequest": "Create new request"
+}
