@@ -1,0 +1,11 @@
+{
+  "opportunityInfo": "Информация о сделке",
+  "skills": "Навыки",
+  "image": "Изображение",
+  "uploading": "Загружается",
+  "pressToReplacePhoto": "Нажмите, чтобы заменить фото",
+  "pressToSelectPhoto": "Нажмите, чтобы выбрать фото",
+  "editOpportunity": "Изменить сделку",
+  "name": "Наименование",
+  "description": "Описание"
+}
