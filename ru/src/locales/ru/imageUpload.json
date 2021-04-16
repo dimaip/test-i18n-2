@@ -1,15 +1,15 @@
 {
-  "brandImageTitle": "Brand Photo",
-  "backgroundPhotoTitle": "Background Photo",
-  "logoTitle": "Logo",
-  "profilePhotoTitle": "Profile Photo",
+  "brandImageTitle": "Фото бренда",
+  "backgroundPhotoTitle": "Фоновое фото",
+  "logoTitle": "Логотип",
+  "profilePhotoTitle": "Фото профиля",
   "uploading": "Загрузка…",
-  "addBrandImageButton": "Add Brand Photo",
-  "addBackgroundPhotoButton": "Add Background Photo",
-  "addProfilePhotoButton": "Add Profile Photo",
-  "addLogoButton": "Add Logo",
-  "updateBrandImageButton": "Update Brand Photo",
-  "updateBackgroundPhotoButton": "Update Background Photo",
-  "updateProfilePhotoButton": "Update Profile Photo",
-  "updateLogoButton": "Update Logo"
+  "addBrandImageButton": "Добавить фото бренда",
+  "addBackgroundPhotoButton": "Добавить фоновое фото",
+  "addProfilePhotoButton": "Добавить фото профиля",
+  "addLogoButton": "Добавить логотип",
+  "updateBrandImageButton": "Обновить фото бренда",
+  "updateBackgroundPhotoButton": "Обновить фоновое фото",
+  "updateProfilePhotoButton": "Обновить фото профиля",
+  "updateLogoButton": "Обновить логотип"
 }
