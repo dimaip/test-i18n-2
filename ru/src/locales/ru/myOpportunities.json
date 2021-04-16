@@ -1,8 +1,8 @@
 {
-  "myRequests": "My Requests",
-  "activeRequests": "Active Requests",
-  "completedRequests": "Completed Requests",
-  "newRequests": "New Requests",
-  "viewRequest": "View Request",
-  "goBrowseRequests": "You don’t have any active requests"
+  "myRequests": "Мои запросы",
+  "activeRequests": "Активные запросы",
+  "completedRequests": "Выполненные запросы",
+  "newRequests": "Новые запросы",
+  "viewRequest": "Просмотр запроса",
+  "goBrowseRequests": "У вас нет активных запросов"
 }
