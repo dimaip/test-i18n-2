@@ -1,10 +1,10 @@
 {
-  "createYourAccountWith": "Or create your account with",
-  "IveHelpedWith": "I've helped with",
-  "signUpTitle": "Let's help black-owned businesses.",
-  "signUpSubtitle": "Start with your company email address for fast and easy sign up.",
-  "signUpDisclaimer": "By signing up you agree to our <0>Terms of Use</0> and acknowledge that you have read the <1>Privacy Policy</1>.",
-  "signUpWithSso": "Sign up with SSO",
-  "title": "Volunteer",
-  "yourEmailAddress": "Your email address"
+  "createYourAccountWith": "Или создайте свой аккаунт с",
+  "IveHelpedWith": "Мне помогли",
+  "signUpTitle": "Давайте поможем чернокожим предприятиям.",
+  "signUpSubtitle": "Начните с адреса электронной почты вашей компании для быстрой и простой регистрации.",
+  "signUpDisclaimer": "Зарегистрировавшись вы соглашаетесь с нашими <0>Условиями использования</0> и подтверждаете, что вы прочитали <1>Политику конфиденциальности</1>.",
+  "signUpWithSso": "Регистрация с помощью SSO",
+  "title": "Волонтер",
+  "yourEmailAddress": "Ваш адрес электронной почты"
 }
