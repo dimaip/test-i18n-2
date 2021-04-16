@@ -1,0 +1,15 @@
+{
+  "brandImageTitle": "Brand Photo",
+  "backgroundPhotoTitle": "Background Photo",
+  "logoTitle": "Logo",
+  "profilePhotoTitle": "Profile Photo",
+  "uploading": "Загрузка…",
+  "addBrandImageButton": "Add Brand Photo",
+  "addBackgroundPhotoButton": "Add Background Photo",
+  "addProfilePhotoButton": "Add Profile Photo",
+  "addLogoButton": "Add Logo",
+  "updateBrandImageButton": "Update Brand Photo",
+  "updateBackgroundPhotoButton": "Update Background Photo",
+  "updateProfilePhotoButton": "Update Profile Photo",
+  "updateLogoButton": "Update Logo"
+}
