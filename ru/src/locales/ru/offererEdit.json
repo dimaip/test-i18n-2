@@ -1,0 +1,19 @@
+{
+  "editYourProfile": "Edit your profile",
+  "yourAccount": "Your Account",
+  "skills": "Навыки",
+  "bio": "Bio",
+  "myDeeds": "My Deeds",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "jobTitle": "Должность",
+  "email": "Email",
+  "organization": "Company",
+  "save": "Save changes",
+  "discard": "Nevermind, Discard these changes.",
+  "required": "This field is required",
+  "saving": "Saving",
+  "bioText": "Biography Text",
+  "profilePhotos": "Profile Photos",
+  "postalCode": "Почтовый индекс"
+}
