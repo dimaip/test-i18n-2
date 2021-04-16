@@ -1,11 +1,11 @@
 {
-  "searchSkillLabel": "Search for a skill",
-  "top3": "Your top 3 skills",
-  "selectedSkills": "Selected skills",
-  "skillsHeaderLimited": "Choose the top 3 skills that apply to your areas of expertise.",
-  "skillsHeader": "Choose skills that apply to your areas of expertise.",
-  "saving": "Saving",
-  "discard": "Discard",
-  "close": "Close",
-  "save": "Save"
+  "searchSkillLabel": "Поиск навыка",
+  "top3": "Ваши 3 лучшие навыки",
+  "selectedSkills": "Выбранные навыки",
+  "skillsHeaderLimited": "Выберите 3 лучших навыка, которые применимы к вашим областям знания.",
+  "skillsHeader": "Выберите навыки, которые применимы к вашим компетенциям.",
+  "saving": "Сохранение",
+  "discard": "Сбросить",
+  "close": "Закрыть",
+  "save": "Сохранить"
 }
