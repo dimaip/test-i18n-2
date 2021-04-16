@@ -1,11 +1,11 @@
 {
-  "opportunityInfo": "Opportunity info",
+  "opportunityInfo": "Информация о сделке",
   "skills": "Навыки",
-  "image": "Image",
-  "uploading": "Uploading",
-  "pressToReplacePhoto": "Tap to replace photo",
-  "pressToSelectPhoto": "Tap to Select photo",
-  "editOpportunity": "Edit Opportunity",
-  "name": "Name",
+  "image": "Изображение",
+  "uploading": "Загружается",
+  "pressToReplacePhoto": "Нажмите, чтобы заменить фото",
+  "pressToSelectPhoto": "Нажмите, чтобы выбрать фото",
+  "editOpportunity": "Изменить сделку",
+  "name": "Наименование",
   "description": "Описание"
 }
