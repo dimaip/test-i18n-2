@@ -1,0 +1,19 @@
+{
+  "editYourProfile": "Edit your profile",
+  "yourAccount": "Your Account",
+  "bio": "Bio",
+  "profilePhotos": "Profile Photos",
+  "name": "Company Name",
+  "email": "Email",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "postalCode": "Почтовый индекс",
+  "website": "Адрес веб-сайта",
+  "description": "Описание",
+  "industry": "Индустрия",
+  "save": "Save changes",
+  "discard": "Nevermind, Discard these changes.",
+  "updateBrandImage": "Update brand photo",
+  "updateLogo": "Update logo",
+  "saving": "Saving…"
+}
