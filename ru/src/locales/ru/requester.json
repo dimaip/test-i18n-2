@@ -1,8 +1,8 @@
 {
-  "title": "Requester",
-  "helpUsWith": "Can you help us with…",
-  "onlyArchived": "Only archived",
-  "edit": "Edit",
-  "current": "Current",
-  "past": "Past"
+  "title": "Запрашивающий",
+  "helpUsWith": "Вы можете помочь нам с…",
+  "onlyArchived": "Только в архиве",
+  "edit": "Редактирование",
+  "current": "Текущее",
+  "past": "Прошлые"
 }
