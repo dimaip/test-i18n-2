@@ -1,0 +1,17 @@
+{
+  "loginMarketplaceTitle": "Войдите в свой аккаунт Beygood",
+  "loginRequester": "Войдите в свою бизнес-учетную запись",
+  "loginOfferer": "Войдите в свою учетную запись волонтера",
+  "email": "Почта",
+  "password": "Пароль",
+  "loginButton": "Логин",
+  "fillThisField": "Пожалуйста, заполните это поле",
+  "passwordMinLengthError": "Пароль должен содержать не менее 6 символов",
+  "forgotPassword": "Забыли пароль?",
+  "noAccount": "У вас еще нет аккаунта?",
+  "registerHere": "Зарегистрируйтесь здесь →",
+  "ssoSignIn": "Войти с помощью единого входа",
+  "wrongEmailFormat": "Неверный формат электронной почты",
+  "emailOrPasswordError": "Email или пароль введены неверно",
+  "noWhitespaces": "Пробелы не допускаются"
+}
