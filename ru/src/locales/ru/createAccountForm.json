@@ -1,0 +1,21 @@
+{
+  "createYourBeygoodAccountTitle": "Create Your Beygood Account",
+  "createYourBeygoodAccountSubtitle": "Create an account and get expert advice",
+  "companyName": "Company name",
+  "firstName": "First name",
+  "lastName": "Last name",
+  "email": "Email",
+  "password": "Password",
+  "bySigningUp": "By signing up you agree to our",
+  "termsOfUse": "Terms of Use",
+  "acknowledgeYouRead": "and acknowledge that you have read the ",
+  "privacyPolicy": "Privacy Policy",
+  "createAccountButton": "Create an Account",
+  "industry": "Индустрия",
+  "industryFieldLabel": "Industry / Categories",
+  "selectIndustry": "Select industry",
+  "changeEmail": "Change email",
+  "SSOsignUp": "SSO Sign Up",
+  "SSOsubtitle": "You entered your company email which is supported by single sign-on. For quick sign up proceed with SSO.",
+  "SSObutton": "Sign Up with SSO"
+}
