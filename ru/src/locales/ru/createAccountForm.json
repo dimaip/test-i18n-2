@@ -1,0 +1,21 @@
+{
+  "createYourBeygoodAccountTitle": "Создайте свой аккаунт на Beygood",
+  "createYourBeygoodAccountSubtitle": "Создайте учетную запись и получите экспертные советы",
+  "companyName": "Название компании",
+  "firstName": "Имя",
+  "lastName": "Фамилия",
+  "email": "Почта",
+  "password": "Пароль",
+  "bySigningUp": "Зарегистрировавшись, вы соглашаетесь с нашими",
+  "termsOfUse": "Условия использования",
+  "acknowledgeYouRead": "и подтвердите, что вы прочитали ",
+  "privacyPolicy": "Политика конфиденциальности",
+  "createAccountButton": "Создать учетную запись",
+  "industry": "Индустрия",
+  "industryFieldLabel": "Промышленность / Категории",
+  "selectIndustry": "Выберите отрасль",
+  "changeEmail": "Изменить email",
+  "SSOsignUp": "Регистрация SSO",
+  "SSOsubtitle": "Вы ввели электронную почту вашей компании, которая поддерживается одним входом. Для быстрой регистрации продолжайте пользоваться SSO.",
+  "SSObutton": "Регистрация с помощью SSO"
+}

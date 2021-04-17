@@ -1,0 +1,11 @@
+{
+  "title": "Single sign-on",
+  "instruction": "Please enter your company email",
+  "label": "Email",
+  "loginButton": "Login",
+  "termsOfUse&PrivacyPolicy": "By logging in through SSO, you agree to the <1>{{termsOfUse}}</1> and acknowledge that you have read the <1>{{privacyPolicy}}</1>.",
+  "privacyPolicy": "Privacy Policy",
+  "termsOfUse": "Terms Of Use",
+  "logInWithoutSSO": "Log in without Single sign-on",
+  "fillThisField": "Please fill out this field"
+}
